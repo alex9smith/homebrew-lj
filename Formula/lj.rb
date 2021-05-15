@@ -1,4 +1,4 @@
-class Tle < Formula
+class Lj < Formula
   desc "Like `ls`, but outputs JSON!"
   homepage "https://github.com/alex9smith/lj"
   url "https://github.com/alex9smith/lj/releases/download/1.0.0/lj-1.0.0-apple-intel.tar.gz"
